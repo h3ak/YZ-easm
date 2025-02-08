@@ -1,0 +1,1678 @@
+.15cdn.com:
+  name: 腾正安全加速(原 15CDN)
+.tzcdn.cn:
+  name: 腾正安全加速(原 15CDN)
+.cedexis.net:
+  name: Cedexis GSLB
+.cdxcn.cn:
+  name: Cedexis GSLB (For China)
+.qhcdn.com:
+  name: 360 云 CDN (由奇安信运营)
+.qh-cdn.com:
+  name: 360 云 CDN (由奇虎 360 运营)
+.qihucdn.com:
+  name: 360 云 CDN (由奇虎 360 运营)
+.360cdn.com:
+  name: 360 云 CDN (由奇虎 360 运营)
+.360cloudwaf.com:
+  name: 奇安信网站卫士
+.360anyu.com:
+  name: 奇安信网站卫士
+.360safedns.com:
+  name: 奇安信网站卫士
+.360wzws.com:
+  name: 奇安信网站卫士
+.qaxwzws.com:
+  name: 奇安信网站卫士
+.qaxcloudwaf.com:
+  name: 奇安信网神防火墙
+.akamai.net:
+  name: Akamai CDN
+.akamaiedge.net:
+  name: Akamai CDN
+.ytcdn.net:
+  name: Akamai CDN
+.edgesuite.net:
+  name: Akamai CDN
+.akamaitech.net:
+  name: Akamai CDN
+.akamaitechnologies.com:
+  name: Akamai CDN
+.edgekey.net:
+  name: Akamai CDN
+.akam.net:
+  name: Akamai CDN
+.akagtm.org:
+  name: Akamai CDN
+.akamaistream.net:
+  name: Akamai CDN
+.tl88.net:
+  name: 易通锐进(Akamai 中国)由网宿承接
+.cloudfront.net:
+  name: AWS CloudFront
+.worldcdn.net:
+  name: CDN.NET
+.worldssl.net:
+  name: CDN.NET / CDNSUN / ONAPP
+.cdn77.org:
+  name: CDN77
+.panthercdn.com:
+  name: CDNetworks
+.cdnga.net:
+  name: CDNetworks
+.cdngc.net:
+  name: CDNetworks
+.gccdn.net:
+  name: CDNetworks
+.gccdn.cn:
+  name: CDNetworks
+.akamaized.net:
+  name: Akamai CDN
+.126.net:
+  name: 网易云 CDN
+.163jiasu.com:
+  name: 网易云 CDN
+.amazonaws.com:
+  name: AWS Cloud
+.cdn77.net:
+  name: CDN77
+.cdnify.io:
+  name: CDNIFY
+.cdnsun.net:
+  name: CDNSUN
+.bdydns.com:
+  name: 百度云 CDN
+.jomodns.com:
+  name: 百度云 CDN
+.baidupcs.com:
+  name: 百度网盘
+.ccgslb.com.cn:
+  name: 蓝汛 CDN
+.ccgslb.net:
+  name: 蓝汛 CDN
+.ccgslb.com:
+  name: 蓝汛 CDN
+.ccgslb.cn:
+  name: 蓝汛 CDN
+.c3cache.net:
+  name: 蓝汛 CDN
+.c3dns.net:
+  name: 蓝汛 CDN
+.chinacache.net:
+  name: 蓝汛 CDN
+.wswebcdn.com:
+  name: 网宿 CDN
+.lxdns.com:
+  name: 网宿 CDN
+.8686c.com:
+  name: 网宿 CDN
+.wswebpic.com:
+  name: 网宿 CDN
+.qtlglb.com:
+  name: 网宿海外 CDN
+.cloudflare.net:
+  name: Cloudflare
+.cloudflare.com:
+  name: Cloudflare
+.cloudflarestorage.com:
+  name: Cloudflare对象储存
+.cf-ns.net:
+  name: Cloudflare中国
+.workers.dev:
+  name: Cloudflare Workers
+.pages.dev:
+  name: Cloudflare Pages
+.vercel.app:
+  name: Vercel
+.ppio.cloud:
+  name: PPIO边缘PCDN节点
+.akadns.net:
+  name: Akamai CDN
+.akamaihd.net:
+  name: Akamai CDN
+.chinanetcenter.com:
+  name: 网宿 CDN
+.customcdn.com.cn:
+  name: 网宿 CDN
+.customcdn.cn:
+  name: 网宿 CDN
+.51cdn.com:
+  name: 网宿 CDN
+.wscdns.com:
+  name: 网宿 CDN
+.cdn20.com:
+  name: 网宿 CDN
+.wsdvs.com:
+  name: 网宿 CDN
+.wsglb0.com:
+  name: 网宿 CDN
+.speedcdns.com:
+  name: 网宿 CDN
+.wtxcdn.com:
+  name: 网宿 CDN
+.wsssec.com:
+  name: 网宿 WAF CDN
+.wcdnga.com:
+  name: 网宿 WAF CDN
+.fastly.net:
+  name: Fastly
+.fastlylb.net:
+  name: Fastly
+.hwcdn.net:
+  name: Stackpath (原 Highwinds)
+.incapdns.net:
+  name: Incapsula CDN
+.kxcdn.com.:
+  name: KeyCDN
+.lswcdn.net:
+  name: LeaseWeb CDN
+.mwcloudcdn.com:
+  name: QUANTIL (网宿)
+.mwcname.com:
+  name: QUANTIL (网宿)
+.azureedge.net:
+  name: Microsoft Azure CDN
+.msecnd.net:
+  name: Microsoft Azure CDN
+.mschcdn.com:
+  name: Microsoft Azure CDN
+.v0cdn.net:
+  name: Microsoft Azure CDN
+.azurewebsites.net:
+  name: Microsoft Azure App Service
+.azurewebsites.windows.net:
+  name: Microsoft Azure App Service
+.trafficmanager.net:
+  name: Microsoft Azure Traffic Manager
+.cloudapp.net:
+  name: Microsoft Azure
+.chinacloudsites.cn:
+  name: 世纪互联旗下上海蓝云(承载 Azure 中国)
+.chinacloudapi.cn:
+  name: 世纪互联旗下上海蓝云(承载 Azure 中国)
+.spdydns.com:
+  name: 云端智度融合 CDN
+.jiashule.com:
+  name: 知道创宇云安全加速乐CDN
+.jiasule.org:
+  name: 知道创宇云安全加速乐CDN
+.365cyd.cn:
+  name: 知道创宇云安全创宇盾(政务专用)
+.myhuaweicloud.com:
+  name: 华为云 对象储存
+.huaweicloud.com:
+  name: 华为云WAF高防云盾
+.myhwcdn.cn:
+  name: 华为云 CDN
+.cdnhwc1.com:
+  name: 华为云 CDN
+.cdnhwc2.com:
+  name: 华为云 CDN
+.cdnhwc3.com:
+  name: 华为云 CDN
+.cdnhwcprh113.com:
+  name: 华为云 CDN
+.cdn36.com:
+  name: 商中在线
+.dnion.com:
+  name: 帝联科技
+.ewcache.com:
+  name: 帝联科技
+.globalcdn.cn:
+  name: 帝联科技
+.tlgslb.com:
+  name: 帝联科技
+.fastcdn.com:
+  name: 帝联科技
+.flxdns.com:
+  name: 帝联科技
+.dlgslb.cn:
+  name: 帝联科技
+.newdefend.cn:
+  name: 牛盾云安全
+.ffdns.net:
+  name: CloudXNS
+.aocdn.com:
+  name: 可靠云 CDN (贴图库)
+.baishancdnx.cn:
+  name: 白山云 CDN
+.baishancdnx.com:
+  name: 白山云 CDN
+.baishancdnx.net:
+  name: 白山云 CDN
+.baishancdnx.top:
+  name: 白山云 CDN
+.aishandnsx.cn:
+  name: 白山云 CDN
+.baishandnsx.com:
+  name: 白山云 CDN
+.baishandnsx.net:
+  name: 白山云 CDN
+.baishandnsx.top:
+  name: 白山云 CDN
+.baishangeek.com:
+  name: 白山云 CDN
+.baishangeek.cn:
+  name: 白山云 CDN
+.bscstorage.net:
+  name: 白山云 CDN
+.bscstorage.com:
+  name: 白山云 CDN
+.bscstorage.cn:
+  name: 白山云 CDN
+.bsgslb.cn:
+  name: 白山云 CDN
+.bsgslb.com:
+  name: 白山云 CDN
+.qingcdn.com:
+  name: 白山云 CDN
+.bsclink.cn:
+  name: 白山云 CDN
+.bsclink.com:
+  name: 白山云 CDN
+.trpcdn.com:
+  name: 白山云 CDN
+.trpcdn.net:
+  name: 白山云 CDN
+.bsccdn.net:
+  name: 白山云 CDN
+.bsccdn.com:
+  name: 白山云 CDN
+.eccdnx.com:
+  name: 白山云 CDN
+.crazyrtc.com:
+  name: 白山云 CDN
+.baishan-cloud.com:
+  name: 白山云 CDN
+.baishan-cloud.net:
+  name: 白山云 CDN
+.baicdnx.com:
+  name: 白山云 CDN
+.scdncloud.com:
+  name: 白山云 CDN
+.scdntop.com:
+  name: 白山云 CDN
+.zzcdnx.com:
+  name: 白山云 CDN
+.dolfincdnx.cn:
+  name: 白山云 CDN
+.dolfincdnx.com:
+  name: 白山云 CDN
+.dolfincdnx.net:
+  name: 白山云 CDN
+.dolfincdnx.top:
+  name: 白山云 CDN
+.dolfindnsx.cn:
+  name: 白山云 CDN
+.dolfindnsx.com:
+  name: 白山云 CDN
+.dolfindnsx.net:
+  name: 白山云 CDN
+.dolfindnsx.top:
+  name: 白山云 CDN
+.saxyit.com:
+  name: 白山云鲁班 PCDN
+.bsydns.com:
+  name: 白山云 CDN
+.bsydns.cn:
+  name: 白山云 CDN
+.bsydns.net:
+  name: 白山云 CDN
+.5gcdnx.com:
+  name: 白山云 CDN
+.bscdns.com:
+  name: 白山云 CDN
+.bscedge.com:
+  name: 白山云 CDN
+.baishan-gateway.com:
+  name: 白山云 CDN
+.edgefn.net:
+  name: 白山云 CDN
+.fnedge.net:
+  name: 白山云 CDN
+.ldgslb.com:
+  name: 白山云 CDN
+.bscgslb.com:
+  name: 白山云 CDN
+.ccedge.cn:
+  name: 白山云 CDN
+.whitecdnx.cn:
+  name: 白山云 CDN
+.baishancloud.net:
+  name: 白山云 CDN
+.revivalark.com:
+  name: 白山云 CDN
+.wanwang.space:
+  name: 白山云 CDN
+.anquan.io:
+  name: 牛盾云安全
+.cloudglb.com:
+  name: 快网 CDN
+.fastweb.com:
+  name: 快网 CDN
+.fastwebcdn.com:
+  name: 快网 CDN
+.cloudcdn.net:
+  name: 快网 CDN
+.fwcdn.com:
+  name: 快网 CDN
+.fwdns.net:
+  name: 快网 CDN
+.hadns.net:
+  name: 快网 CDN
+.hacdn.net:
+  name: 快网 CDN
+.cachecn.com:
+  name: 快网 CDN
+.qingcache.com:
+  name: 青云 CDN
+.qingcloud.com:
+  name: 青云 CDN
+.frontwize.com:
+  name: 青云 CDN
+.msscdn.com:
+  name: 美团云 CDN
+.800cdn.com:
+  name: 西部数码
+.aliapp.com:
+  name: 阿里云
+.alivecdn.com:
+  name: 阿里云直播
+.tbcache.com:
+  name: 阿里云 CDN
+.edu-aliyun.com:
+  name: 阿里云 CDN
+.alyns.cn:
+  name: 阿里云 CDN
+.alysm.cn:
+  name: 阿里云 CDN
+.aliyunga.com:
+  name: 阿里云 CDN
+.aliyunedu.net:
+  name: 阿里云 CDN
+.aliyuncdn.com:
+  name: 阿里云 CDN
+.aliyuncdn.net:
+  name: 阿里云 CDN
+.aliiotapp.com:
+  name: 阿里云 CDN
+.aliyunnest.com:
+  name: 阿里云 CDN
+.aliyunvcs.cn:
+  name: 阿里云 CDN
+.aliyunrtc.com:
+  name: 阿里云 CDN
+.aliappcdn.com:
+  name: 阿里云 CDN
+.aliplus.com:
+  name: 阿里云 CDN
+.alirtc.com:
+  name: 阿里云 CDN
+.alisoft.cn:
+  name: 阿里云 CDN
+.alisoft.com.cn:
+  name: 阿里云 CDN
+.alisoft.com:
+  name: 阿里云 CDN
+.alibabacloudsso.com:
+  name: 阿里云 CDN
+.aliyuncds.com:
+  name: 阿里云 CDN
+.kunlundns.cn:
+  name: 阿里云 CDN
+.h5video.cn:
+  name: 阿里云 CDN
+.scdncxtn.com:
+  name: 阿里云 CDN
+.sfdcfd.cn:
+  name: 阿里云 CDN
+.aliyunvpc.com:
+  name: 阿里云 CDN
+.danuoyidns.net:
+  name: 阿里云 CDN
+.danuoyidns.cn:
+  name: 阿里云 CDN
+.cloudsecsase.com:
+  name: 阿里云 CDN
+.scdndns.net:
+  name: 阿里云 CDN
+.scdndns.com:
+  name: 阿里云 CDN
+.myalicdn.com:
+  name: 阿里云 CDN
+.myalicdn.cn:
+  name: 阿里云 CDN
+.ialicdn.cn:
+  name: 阿里云 CDN
+.aliyun-inc.com:
+  name: 阿里云 CDN
+.aliyuncs.com:
+  name: 阿里云 CDN
+.alikunlun.net:
+  name: 阿里云 CDN
+.alikunlun.com:
+  name: 阿里云 CDN
+.alicdn.com:
+  name: 阿里云 CDN
+.alicdn.net:
+  name: 阿里云 CDN
+.aligaofang.com:
+  name: 阿里云盾高防
+.yundunddos.com:
+  name: 阿里云盾高防
+.kunlun:
+  name: 阿里云 CDN
+.queniucdn.com.cn:
+  name: 阿里云 CDN
+.queniugslb.com.cn:
+  name: 阿里云 CDN
+.edgegslb.cn:
+  name: 阿里云 CDN
+.starsea:
+  name: 阿里云 CDN
+.queniu:
+  name: 阿里云 CDN
+.queniu:
+  name: 阿里云 CDN
+.cdngslb.com:
+  name: 阿里云 CDN
+.alidns.net:
+  name: 阿里云 DNS
+.alidns.com:
+  name: 阿里云 DNS
+.alidns.cn:
+  name: 阿里云 DNS
+.queniujq.cn:
+  name: 阿里云 CDN
+.gtm-a:
+  name: 阿里云全局流量管理
+.yundunwaf:
+  name: 阿里云 WAF
+.yunjiasu-cdn.net:
+  name: 百度云加速
+.momentcdn.com:
+  name: 魔门云 CDN
+.aicdn.com:
+  name: 又拍云
+.qbox.me:
+  name: 七牛云
+.qiniu.com:
+  name: 七牛云
+.qiniudns.com:
+  name: 七牛云
+.qiniupic.com:
+  name: 七牛云
+.clouddn.com:
+  name: 七牛云
+.qiniucdn.com:
+  name: 七牛云
+.qiniudn.com:
+  name: 七牛云
+.qnssl.com:
+  name: 七牛云
+.qnydns.com:
+  name: 七牛云
+.qnqcdn.net:
+  name: 七牛云
+.hiecheimaetu.com:
+  name: 七牛云
+.cy-isp.com:
+  name: 橙域 CDN
+.71edge.com:
+  name: 爱奇艺
+.jcloudcs.com:
+  name: 京东云 CDN
+.jdcdn.com:
+  name: 京东云 CDN
+.qianxun.com:
+  name: 京东云 CDN
+.jcloudlb.com:
+  name: 京东云 CDN
+.jcloud-cdn.com:
+  name: 京东云 CDN
+.maoyun.tv:
+  name: 猫云融合 CDN
+.maoyundns.com:
+  name: 猫云融合 CDN
+.xgslb.net:
+  name: WebLuker (蓝汛)
+.ucloud.cn:
+  name: UCloud CDN
+.ucloud.com.cn:
+  name: UCloud CDN
+.cdndo.com:
+  name: UCloud CDN
+.zengslb.com:
+  name: Zenlayer CDN
+.zenlogic.net:
+  name: Zenlayer CDN
+.ogslb.com:
+  name: Zenlayer CDN
+.uxengine.net:
+  name: Zenlayer CDN
+.tan14.net:
+  name: TAN14 CDN
+.verycloud.cn:
+  name: VeryCloud 云分发
+.verycdn.net:
+  name: VeryCloud 云分发
+.verygslb.com:
+  name: VeryCloud 云分发
+.xundayun.cn:
+  name: SpeedyCloud CDN
+.xundayun.com:
+  name: SpeedyCloud CDN
+.speedycloud.cc:
+  name: SpeedyCloud CDN
+.mucdn.net:
+  name: Verizon CDN (Edgecast)
+.nucdn.net:
+  name: Verizon CDN (Edgecast)
+.alphacdn.net:
+  name: Verizon CDN (Edgecast)
+.systemcdn.net:
+  name: Verizon CDN (Edgecast)
+.edgecastcdn.net:
+  name: Verizon CDN (Edgecast)
+.zetacdn.net:
+  name: Verizon CDN (Edgecast)
+.comcast.net:
+  name: Verizon CDN (Edgecast)
+.coding.io:
+  name: Coding Pages
+.coding.me:
+  name: Coding Pages
+.gitlab.io:
+  name: GitLab Pages
+.github.io:
+  name: GitHub Pages
+.githubusercontent.com:
+  name: GitHub CDN
+.herokuapp.com:
+  name: Heroku SaaS
+.googleapis.com:
+  name: Google Cloud Storage
+.googlevideo.com:
+  name: YouTube
+.netdna.com:
+  name: Stackpath (原 MaxCDN)
+.netdna-cdn.com:
+  name: Stackpath (原 MaxCDN)
+.netdna-ssl.com:
+  name: Stackpath (原 MaxCDN)
+.cdntip.com:
+  name: 腾讯云 CDN
+.dnsv1.com:
+  name: 腾讯云 CDN
+.dnsv1.com.cn:
+  name: 腾讯云 CDN
+.tencdns.net:
+  name: 腾讯云 CDN
+.dayugslb.com:
+  name: 腾讯云大禹 BGP 高防
+.tcdnvod.com:
+  name: 腾讯云视频 CDN
+.tdnsv:
+  name: 腾讯云 CDN
+.tdnsdp1.cn:
+  name: 腾讯云 CDN
+.cq-tencentclb.cloud:
+  name: 腾讯云 CDN
+.cq-tencentclb.com:
+  name: 腾讯云 CDN
+.cq-tencentclb.net:
+  name: 腾讯云 CDN
+.cq-tencentclb.work:
+  name: 腾讯云 CDN
+.csec-tencentclb.cloud:
+  name: 腾讯云 CDN
+.csec-tencentclb.com:
+  name: 腾讯云 CDN
+.csec-tencentclb.net:
+  name: 腾讯云 CDN
+.csec-tencentclb.work:
+  name: 腾讯云 CDN
+.cunistatic.cn:
+  name: 腾讯云 CDN
+.de-tencentclb.cloud:
+  name: 腾讯云 CDN
+.de-tencentclb.com:
+  name: 腾讯云 CDN
+.de-tencentclb.net:
+  name: 腾讯云 CDN
+.de-tencentclb.work:
+  name: 腾讯云 CDN
+.dothework.cn:
+  name: 腾讯云 CDN
+.eo-edgefunctions.cn:
+  name: 腾讯云 CDN
+.eo-edgefunctions.com:
+  name: 腾讯云 CDN
+.eo-preview.com:
+  name: 腾讯云 CDN
+.eo-shieldspace.com:
+  name: 腾讯云 CDN
+.eo-vpcgw.com:
+  name: 腾讯云 CDN
+.fspstc.com:
+  name: 腾讯云 CDN
+.fzec-tencentclb.cloud:
+  name: 腾讯云 CDN
+.fzec-tencentclb.com:
+  name: 腾讯云 CDN
+.fzec-tencentclb.net:
+  name: 腾讯云 CDN
+.fzec-tencentclb.work:
+  name: 腾讯云 CDN
+.gaapqcloud.com:
+  name: 腾讯云 CDN
+.gdzmjs.com:
+  name: 腾讯云 CDN
+.geekpwn.com:
+  name: 腾讯云 CDN
+.govtcloud.cn:
+  name: 腾讯云 CDN
+.gsadds.com:
+  name: 腾讯云 CDN
+.gtm.pub:
+  name: 腾讯云 CDN
+.gzopen-tencentclb.cloud:
+  name: 腾讯云 CDN
+.gzopen-tencentclb.com:
+  name: 腾讯云 CDN
+.gzopen-tencentclb.net:
+  name: 腾讯云 CDN
+.gzopen-tencentclb.work:
+  name: 腾讯云 CDN
+.gz-tencentclb.cloud:
+  name: 腾讯云 CDN
+.gz-tencentclb.com:
+  name: 腾讯云 CDN
+.gz-tencentclb.net:
+  name: 腾讯云 CDN
+.gz-tencentclb.work:
+  name: 腾讯云 CDN
+.gzwxzf-tencentclb.cloud:
+  name: 腾讯云 CDN
+.gzwxzf-tencentclb.com:
+  name: 腾讯云 CDN
+.gzwxzf-tencentclb.net:
+  name: 腾讯云 CDN
+.gzwxzf-tencentclb.work:
+  name: 腾讯云 CDN
+.haoyunbase.cn:
+  name: 腾讯云 CDN
+.hfeec-tencentclb.cloud:
+  name: 腾讯云 CDN
+.hfeec-tencentclb.com:
+  name: 腾讯云 CDN
+.hfeec-tencentclb.net:
+  name: 腾讯云 CDN
+.hfeec-tencentclb.work:
+  name: 腾讯云 CDN
+.hk-tencentclb.cloud:
+  name: 腾讯云 CDN
+.hk-tencentclb.com:
+  name: 腾讯云 CDN
+.hk-tencentclb.net:
+  name: 腾讯云 CDN
+.hk-tencentclb.work:
+  name: 腾讯云 CDN
+.hotwon.cn:
+  name: 腾讯云 CDN
+.hotwon.com:
+  name: 腾讯云 CDN
+.hotwon.net:
+  name: 腾讯云 CDN
+.hotwoncdn.cn:
+  name: 腾讯云 CDN
+.hr-welink.com:
+  name: 腾讯云 CDN
+.hy-clouds.cn:
+  name: 腾讯云 CDN
+.hzec-tencentclb.cloud:
+  name: 腾讯云 CDN
+.hzec-tencentclb.com:
+  name: 腾讯云 CDN
+.hzec-tencentclb.net:
+  name: 腾讯云 CDN
+.hzec-tencentclb.work:
+  name: 腾讯云 CDN
+.igtm.pub:
+  name: 腾讯云 CDN
+.igtm-meeting-tencent.cn:
+  name: 腾讯云 CDN
+.igtm-meeting-tencent.com:
+  name: 腾讯云 CDN
+.in-tencentclb.cloud:
+  name: 腾讯云 CDN
+.in-tencentclb.com:
+  name: 腾讯云 CDN
+.in-tencentclb.net:
+  name: 腾讯云 CDN
+.in-tencentclb.work:
+  name: 腾讯云 CDN
+.isd.com:
+  name: 腾讯云 CDN
+.jkt-tencentclb.cloud:
+  name: 腾讯云 CDN
+.jkt-tencentclb.com:
+  name: 腾讯云 CDN
+.jkt-tencentclb.net:
+  name: 腾讯云 CDN
+.jkt-tencentclb.work:
+  name: 腾讯云 CDN
+.jnec-tencentclb.cloud:
+  name: 腾讯云 CDN
+.jnec-tencentclb.com:
+  name: 腾讯云 CDN
+.jnec-tencentclb.net:
+  name: 腾讯云 CDN
+.jnec-tencentclb.work:
+  name: 腾讯云 CDN
+.jp-tencentclb.cloud:
+  name: 腾讯云 CDN
+.jp-tencentclb.com:
+  name: 腾讯云 CDN
+.jp-tencentclb.net:
+  name: 腾讯云 CDN
+.jp-tencentclb.work:
+  name: 腾讯云 CDN
+.jrzk.net.cn:
+  name: 腾讯云 CDN
+.kbrfyw.cn:
+  name: 腾讯云 CDN
+.kgsmpj.cn:
+  name: 腾讯云 CDN
+.kr-tencentclb.cloud:
+  name: 腾讯云 CDN
+.kr-tencentclb.com:
+  name: 腾讯云 CDN
+.kr-tencentclb.net:
+  name: 腾讯云 CDN
+.kr-tencentclb.work:
+  name: 腾讯云 CDN
+.lwtsdr.cn:
+  name: 腾讯云 CDN
+.manyou.com:
+  name: 腾讯云 CDN
+.max-fame.com:
+  name: 腾讯云 CDN
+.mps.live:
+  name: 腾讯云 CDN
+.myelasticsearch.com:
+  name: 腾讯云 CDN
+.newglaw.com:
+  name: 腾讯云 CDN
+.nj-tencentclb.cloud:
+  name: 腾讯云 CDN
+.nj-tencentclb.com:
+  name: 腾讯云 CDN
+.nj-tencentclb.net:
+  name: 腾讯云 CDN
+.nj-tencentclb.work:
+  name: 腾讯云 CDN
+.nkfmsp.cn:
+  name: 腾讯云 CDN
+.nkwjag.cn:
+  name: 腾讯云 CDN
+.nrshog.cn:
+  name: 腾讯云 CDN
+.paicang.com.cn:
+  name: 腾讯云 CDN
+.phyto-ceuticals.com.cn:
+  name: 腾讯云 CDN
+.plusrtc.com:
+  name: 腾讯云 CDN
+.qcdnlog.com:
+  name: 腾讯云 CDN
+.qcloudcdnsrc.com:
+  name: 腾讯云 CDN
+.qcloudcdntest.cn:
+  name: 腾讯云 CDN
+.qcloudcjgj.com:
+  name: 腾讯云 CDN
+.qcloudclass.com:
+  name: 腾讯云 CDN
+.qcloud-edumall.com:
+  name: 腾讯云 CDN
+.qcloudmarket.com:
+  name: 腾讯云 CDN
+.qcloudocdn.com:
+  name: 腾讯云 CDN
+.qcloudtcic.com:
+  name: 腾讯云 CDN
+.qcloudwaf.com:
+  name: 腾讯云 CDN
+.qcloudwzgj.com:
+  name: 腾讯云 CDN
+.qcloudzygj.com:
+  name: 腾讯云 CDN
+.qeodns.com:
+  name: 腾讯云 CDN
+.qeodns.net:
+  name: 腾讯云 CDN
+.qlivertc.cn:
+  name: 腾讯云 CDN
+.qlivertc.com:
+  name: 腾讯云 CDN
+.qlivertc2.cn:
+  name: 腾讯云 CDN
+.qlivertc2.com:
+  name: 腾讯云 CDN
+.qlivewebrtc.cn:
+  name: 腾讯云 CDN
+.qlivewebrtc.com:
+  name: 腾讯云 CDN
+.qlivewebrtc2.cn:
+  name: 腾讯云 CDN
+.qlivewebrtc2.com:
+  name: 腾讯云 CDN
+.qqmra.cn:
+  name: 腾讯云 CDN
+.qqmra.com:
+  name: 腾讯云 CDN
+.qtmhcj119.com:
+  name: 腾讯云 CDN
+.qy-tencentclb.cloud:
+  name: 腾讯云 CDN
+.qy-tencentclb.com:
+  name: 腾讯云 CDN
+.qy-tencentclb.net:
+  name: 腾讯云 CDN
+.qy-tencentclb.work:
+  name: 腾讯云 CDN
+.qyxa-tencentclb.cloud:
+  name: 腾讯云 CDN
+.qyxa-tencentclb.com:
+  name: 腾讯云 CDN
+.qyxa-tencentclb.net:
+  name: 腾讯云 CDN
+.qyxa-tencentclb.work:
+  name: 腾讯云 CDN
+.rwph.cn:
+  name: 腾讯云 CDN
+.sao-tencentclb.cloud:
+  name: 腾讯云 CDN
+.sao-tencentclb.com:
+  name: 腾讯云 CDN
+.sao-tencentclb.net:
+  name: 腾讯云 CDN
+.sao-tencentclb.work:
+  name: 腾讯云 CDN
+.sg-tencentclb.cloud:
+  name: 腾讯云 CDN
+.sg-tencentclb.com:
+  name: 腾讯云 CDN
+.sg-tencentclb.net:
+  name: 腾讯云 CDN
+.sg-tencentclb.work:
+  name: 腾讯云 CDN
+.shadc-tencentclb.cloud:
+  name: 腾讯云 CDN
+.shadc-tencentclb.com:
+  name: 腾讯云 CDN
+.shadc-tencentclb.net:
+  name: 腾讯云 CDN
+.shadc-tencentclb.work:
+  name: 腾讯云 CDN
+.sheec-tencentclb.cloud:
+  name: 腾讯云 CDN
+.sheec-tencentclb.com:
+  name: 腾讯云 CDN
+.sheec-tencentclb.net:
+  name: 腾讯云 CDN
+.sheec-tencentclb.work:
+  name: 腾讯云 CDN
+.shjr-tencentclb.cloud:
+  name: 腾讯云 CDN
+.shjr-tencentclb.com:
+  name: 腾讯云 CDN
+.shjr-tencentclb.net:
+  name: 腾讯云 CDN
+.shjr-tencentclb.work:
+  name: 腾讯云 CDN
+.sh-tencentclb.cloud:
+  name: 腾讯云 CDN
+.sh-tencentclb.com:
+  name: 腾讯云 CDN
+.sh-tencentclb.net:
+  name: 腾讯云 CDN
+.sh-tencentclb.work:
+  name: 腾讯云 CDN
+.shwxzf-tencentclb.cloud:
+  name: 腾讯云 CDN
+.shwxzf-tencentclb.com:
+  name: 腾讯云 CDN
+.shwxzf-tencentclb.net:
+  name: 腾讯云 CDN
+.shwxzf-tencentclb.work:
+  name: 腾讯云 CDN
+.sjwec-tencentclb.cloud:
+  name: 腾讯云 CDN
+.sjwec-tencentclb.com:
+  name: 腾讯云 CDN
+.sjwec-tencentclb.net:
+  name: 腾讯云 CDN
+.sjwec-tencentclb.work:
+  name: 腾讯云 CDN
+.srccdn.com:
+  name: 腾讯云 CDN
+.srccdn2.com:
+  name: 腾讯云 CDN
+.szjr-tencentclb.cloud:
+  name: 腾讯云 CDN
+.szjr-tencentclb.com:
+  name: 腾讯云 CDN
+.szjr-tencentclb.net:
+  name: 腾讯云 CDN
+.szjr-tencentclb.work:
+  name: 腾讯云 CDN
+.szjxcft-tencentclb.cloud:
+  name: 腾讯云 CDN
+.szjxcft-tencentclb.com:
+  name: 腾讯云 CDN
+.szjxcft-tencentclb.net:
+  name: 腾讯云 CDN
+.szjxcft-tencentclb.work:
+  name: 腾讯云 CDN
+.szsycft-tencentclb.cloud:
+  name: 腾讯云 CDN
+.szsycft-tencentclb.com:
+  name: 腾讯云 CDN
+.szsycft-tencentclb.net:
+  name: 腾讯云 CDN
+.szsycft-tencentclb.work:
+  name: 腾讯云 CDN
+.szx-tencentclb.cloud:
+  name: 腾讯云 CDN
+.szx-tencentclb.com:
+  name: 腾讯云 CDN
+.szx-tencentclb.net:
+  name: 腾讯云 CDN
+.szx-tencentclb.work:
+  name: 腾讯云 CDN
+.taihu.net:
+  name: 腾讯云 CDN
+.tcloudbh.com:
+  name: 腾讯云 CDN
+.tclouddrive.com:
+  name: 腾讯云 CDN
+.tcloudlive.cn:
+  name: 腾讯云 CDN
+.tcloudlive.com:
+  name: 腾讯云 CDN
+.tcloudscdn.com:
+  name: 腾讯云 CDN
+.tcloudscdn.net:
+  name: 腾讯云 CDN
+.tdnsx1.com:
+  name: 腾讯云 CDN
+.tenant-zone-dev.com:
+  name: 腾讯云 CDN
+.tencentapigw.cn:
+  name: 腾讯云 CDN
+.tencentapigw.com.cn:
+  name: 腾讯云 CDN
+.tencentapigw.com:
+  name: 腾讯云 CDN
+.tencentbyod.com:
+  name: 腾讯云 CDN
+.tencentcdb.cn:
+  name: 腾讯云 CDN
+.tencentcdb.com.cn:
+  name: 腾讯云 CDN
+.tencentcdb.com:
+  name: 腾讯云 CDN
+.tencentclb.cc:
+  name: 腾讯云 CDN
+.tencentclb.cloud:
+  name: 腾讯云 CDN
+.tencentclb.cn:
+  name: 腾讯云 CDN
+.tencentclb.com.cn:
+  name: 腾讯云 CDN
+.tencentclb.host:
+  name: 腾讯云 CDN
+.tencentclb.info:
+  name: 腾讯云 CDN
+.tencentclb.link:
+  name: 腾讯云 CDN
+.tencentclb.net.cn:
+  name: 腾讯云 CDN
+.tencentclb.online:
+  name: 腾讯云 CDN
+.tencentclb.plus:
+  name: 腾讯云 CDN
+.tencentclb.pro:
+  name: 腾讯云 CDN
+.tencentclb.site:
+  name: 腾讯云 CDN
+.tencentclb.space:
+  name: 腾讯云 CDN
+.tencentclb.team:
+  name: 腾讯云 CDN
+.tencentclb.tech:
+  name: 腾讯云 CDN
+.tencentclb.top:
+  name: 腾讯云 CDN
+.tencentclb.vip:
+  name: 腾讯云 CDN
+.tencentclb.work:
+  name: 腾讯云 CDN
+.tencentclb.zone:
+  name: 腾讯云 CDN
+.tencentcloud-aiot.com:
+  name: 腾讯云 CDN
+.tencentcloudcore.cn:
+  name: 腾讯云 CDN
+.tencentcloudcore.com:
+  name: 腾讯云 CDN
+.tencentcloudcr.com:
+  name: 腾讯云 CDN
+.tencentcloudlive.cn:
+  name: 腾讯云 CDN
+.tencentcloudlive.com:
+  name: 腾讯云 CDN
+.tencentcloudmarket.com:
+  name: 腾讯云 CDN
+.tencentcloudsso.cn:
+  name: 腾讯云 CDN
+.tencentcloudsso.com:
+  name: 腾讯云 CDN
+.tencentdb.com:
+  name: 腾讯云 CDN
+.tencentelasticsearch.cn:
+  name: 腾讯云 CDN
+.tencentelasticsearch.com.cn:
+  name: 腾讯云 CDN
+.tencentelasticsearch.com:
+  name: 腾讯云 CDN
+.tencentes.cn:
+  name: 腾讯云 CDN
+.tencentes.com.cn:
+  name: 腾讯云 CDN
+.tencentes.com:
+  name: 腾讯云 CDN
+.tencenticp.cn:
+  name: 腾讯云 CDN
+.tencenticp.com.cn:
+  name: 腾讯云 CDN
+.tencenticp.com:
+  name: 腾讯云 CDN
+.tencentiotcloud.com:
+  name: 腾讯云 CDN
+.tencentiotmedia.com:
+  name: 腾讯云 CDN
+.tencentproxy.com:
+  name: 腾讯云 CDN
+.tencentscf.cn:
+  name: 腾讯云 CDN
+.tencentscf.com.cn:
+  name: 腾讯云 CDN
+.tencentscf.com:
+  name: 腾讯云 CDN
+.tencentsmhuc.cn:
+  name: 腾讯云 CDN
+.tencentsmhuc.com.cn:
+  name: 腾讯云 CDN
+.tencentsmhuc.com:
+  name: 腾讯云 CDN
+.tencenttcr.cn:
+  name: 腾讯云 CDN
+.tencenttcr.com.cn:
+  name: 腾讯云 CDN
+.tencenttcr.com:
+  name: 腾讯云 CDN
+.tencenttione.com:
+  name: 腾讯云 CDN
+.tencentvpc.cn:
+  name: 腾讯云 CDN
+.tencentvpc.com.cn:
+  name: 腾讯云 CDN
+.tencentvpc.com:
+  name: 腾讯云 CDN
+.tencentwemeet.club:
+  name: 腾讯云 CDN
+.testjrzk.net.cn:
+  name: 腾讯云 CDN
+.testmeet.cn:
+  name: 腾讯云 CDN
+.testwaf.com:
+  name: 腾讯云 CDN
+.tez-tencentclb.cloud:
+  name: 腾讯云 CDN
+.tez-tencentclb.com:
+  name: 腾讯云 CDN
+.tez-tencentclb.net:
+  name: 腾讯云 CDN
+.th-tencentclb.cloud:
+  name: 腾讯云 CDN
+.th-tencentclb.com:
+  name: 腾讯云 CDN
+.th-tencentclb.net:
+  name: 腾讯云 CDN
+.th-tencentclb.work:
+  name: 腾讯云 CDN
+.timatrix.com.cn:
+  name: 腾讯云 CDN
+.timmerse.com:
+  name: 腾讯云 CDN
+.tlive:
+  name: 腾讯云直播 CDN
+.tlive:
+  name: 腾讯云直播 CDN
+.tmcyx.cn:
+  name: 腾讯云 CDN
+.tourismshow.cn:
+  name: 腾讯云 CDN
+.tourismuser.cn:
+  name: 腾讯云 CDN
+.tpe-tencentclb.cloud:
+  name: 腾讯云 CDN
+.tpe-tencentclb.com:
+  name: 腾讯云 CDN
+.tpe-tencentclb.net:
+  name: 腾讯云 CDN
+.tpe-tencentclb.work:
+  name: 腾讯云 CDN
+.trtcrecover.com:
+  name: 腾讯云 CDN
+.tsn-tencentclb.cloud:
+  name: 腾讯云 CDN
+.tsn-tencentclb.com:
+  name: 腾讯云 CDN
+.tsn-tencentclb.net:
+  name: 腾讯云 CDN
+.tsn-tencentclb.work:
+  name: 腾讯云 CDN
+.tsparkling.com:
+  name: 腾讯云 CDN
+.tvodapi.com:
+  name: 腾讯云 CDN
+.tvodapibk.com:
+  name: 腾讯云 CDN
+.txbyod.com:
+  name: 腾讯云 CDN
+.txcloudlive.cn:
+  name: 腾讯云 CDN
+.txcloudlive.com:
+  name: 腾讯云 CDN
+.txelive.cn:
+  name: 腾讯云 CDN
+.txelive.com:
+  name: 腾讯云 CDN
+.txelvb.cn:
+  name: 腾讯云 CDN
+.txelvb.com:
+  name: 腾讯云 CDN
+.txlivecdn2.com:
+  name: 腾讯云 CDN
+.txmdru.cn:
+  name: 腾讯云 CDN
+.txtyxg.com:
+  name: 腾讯云 CDN
+.txyscdn.com:
+  name: 腾讯云 CDN
+.txyscdn.net:
+  name: 腾讯云 CDN
+.univod.cn:
+  name: 腾讯云 CDN
+.use-tencentclb.cloud:
+  name: 腾讯云 CDN
+.use-tencentclb.com:
+  name: 腾讯云 CDN
+.use-tencentclb.net:
+  name: 腾讯云 CDN
+.use-tencentclb.work:
+  name: 腾讯云 CDN
+.usw-tencentclb.cloud:
+  name: 腾讯云 CDN
+.usw-tencentclb.com:
+  name: 腾讯云 CDN
+.usw-tencentclb.net:
+  name: 腾讯云 CDN
+.usw-tencentclb.work:
+  name: 腾讯云 CDN
+.vigtm-meeting-tencent.cn:
+  name: 腾讯云 CDN
+.vigtm-meeting-tencent.com:
+  name: 腾讯云 CDN
+.vodapis.com:
+  name: 腾讯云 CDN
+.vodapisbk.com:
+  name: 腾讯云 CDN
+.vod-bk-qcloud.com:
+  name: 腾讯云 CDN
+.vodeoapi.com:
+  name: 腾讯云 CDN
+.vodeoapibk.com:
+  name: 腾讯云 CDN
+.vodeointernal.com:
+  name: 腾讯云 CDN
+.vodinternal.com:
+  name: 腾讯云 CDN
+.vodinternalbk.com:
+  name: 腾讯云 CDN
+.vodxl-qcloud.com:
+  name: 腾讯云 CDN
+.voovmeeting.com:
+  name: 腾讯云 CDN
+.wework-pro.com:
+  name: 腾讯云 CDN
+.wework-studio.com:
+  name: 腾讯云 CDN
+.whec-tencentclb.cloud:
+  name: 腾讯云 CDN
+.whec-tencentclb.com:
+  name: 腾讯云 CDN
+.whec-tencentclb.net:
+  name: 腾讯云 CDN
+.whec-tencentclb.work:
+  name: 腾讯云 CDN
+.whyrtc.com:
+  name: 腾讯云 CDN
+.winner.hn.cn:
+  name: 腾讯云 CDN
+.wxlagame.com:
+  name: 腾讯云 CDN
+.xbec-tencentclb.cloud:
+  name: 腾讯云 CDN
+.xbec-tencentclb.com:
+  name: 腾讯云 CDN
+.xbec-tencentclb.net:
+  name: 腾讯云 CDN
+.xbec-tencentclb.work:
+  name: 腾讯云 CDN
+.xiyec-tencentclb.cloud:
+  name: 腾讯云 CDN
+.xiyec-tencentclb.com:
+  name: 腾讯云 CDN
+.xiyec-tencentclb.net:
+  name: 腾讯云 CDN
+.xiyec-tencentclb.work:
+  name: 腾讯云 CDN
+.xmu.edu.cn:
+  name: 腾讯云 CDN
+.xrgaui.cn:
+  name: 腾讯云 CDN
+.yeswan.com:
+  name: 腾讯云 CDN
+.ylgyljr.com:
+  name: 腾讯云 CDN
+.yufuid.com.cn:
+  name: 腾讯云 CDN
+.yufuid.com:
+  name: 腾讯云 CDN
+.yufuid.net:
+  name: 腾讯云 CDN
+.yunjitele.com:
+  name: 腾讯云 CDN
+.zjjj1.com:
+  name: 腾讯云 CDN
+.zxlkbw.com:
+  name: 腾讯云 CDN
+.qpic.cn:
+  name: 腾讯云 CDN
+.xek.tech:
+  name: 腾讯云小鹅通 CDN
+.tdnsv1:
+  name: 腾讯云 CDN
+.tdnsstic:
+  name: 腾讯云 CDN
+.cdn-go.cn:
+  name: 腾讯云 CDN
+.spcdntip.com:
+  name: 腾讯云 CDN
+.tcdnlive.com:
+  name: 腾讯云直播 CDN
+.myqcloud.com:
+  name: 腾讯云对象存储
+.gaapqcloud.com:
+  name: 腾讯云全球应用加速
+.gaapqcloud.com.cn:
+  name: 腾讯云全球应用加速
+.gsadds.com:
+  name: 腾讯云 DDoS 防护
+.tencentcs.com:
+  name: 腾讯云 API 网关
+.ho-wan.cn:
+  name: 腾讯云 CDN
+.qcloudcdn.com:
+  name: 腾讯云 CDN
+.dnse:
+  name: 腾讯云 CDN
+.dnse:
+  name: 腾讯云 CDN
+.dnse:
+  name: 腾讯云 CDN
+.eo-edgefunctions.com:
+  name: 腾讯云 CDN
+.eo-edgefunctions:
+  name: 腾讯云 CDN
+.gaapqcloudbackup0:
+  name: 腾讯云 CDN
+.ksyuncdn.com:
+  name: 金山云 CDN
+.ks-cdn.com:
+  name: 金山云 CDN
+.kcdnvip.com:
+  name: 金山云 CDN
+.ksyuncdn-k1.com:
+  name: 金山云 CDN
+.netlify.app:
+  name: Netlify
+.zeit.co:
+  name: ZEIT Now Smart CDN
+.zeit-cdn.net:
+  name: ZEIT Now Smart CDN
+.b-cdn.net:
+  name: Bunny CDN
+.lsycdn.com:
+  name: 蓝视云 CDN
+.scsdns.com:
+  name: 逸云科技云加速 CDN
+.quic.cloud:
+  name: QUIC.Cloud
+.flexbalancer.net:
+  name: FlexBalancer - Smart Traffic Routing
+.gcdn.co:
+  name: G - Core Labs
+.sangfordns.com:
+  name: 深信服 AD 系列应用交付产品  单边加速解决方案
+.stspg-customer.com:
+  name: StatusPage.io
+.turbobytes.net:
+  name: TurboBytes Multi-CDN
+.turbobytes-cdn.com:
+  name: TurboBytes Multi-CDN
+.att-dsa.net:
+  name: AT&T Content Delivery Network
+.azioncdn.net:
+  name: Azion Tech | Edge Computing PLatform
+.belugacdn.com:
+  name: BelugaCDN
+.cachefly.net:
+  name: CacheFly CDN
+.inscname.net:
+  name: Instart CDN
+.insnw.net:
+  name: Instart CDN
+.internapcdn.net:
+  name: Internap CDN
+.footprint.net:
+  name: CenturyLink CDN (原 Level 3)
+.llnwi.net:
+  name: Limelight Network
+.llnwd.net:
+  name: Limelight Network
+.unud.net:
+  name: Limelight Network
+.lldns.net:
+  name: Limelight Network
+.stackpathdns.com:
+  name: Stackpath CDN
+.stackpathcdn.com:
+  name: Stackpath CDN
+.mncdn.com:
+  name: Medianova
+.rncdn1.com:
+  name: Relected Networks
+.simplecdn.net:
+  name: Relected Networks
+.swiftserve.com:
+  name: Conversant - SwiftServe CDN
+.bitgravity.com:
+  name: Tata communications CDN
+.zenedge.net:
+  name: Oracle Dyn Web Application Security suite (原 Zenedge CDN)
+.biliapi.com:
+  name: Bilibili 业务 GSLB
+.bilicdn1.com:
+  name: Bilibili 业务 GSLB
+.hdslb.net:
+  name: Bilibili 高可用负载均衡
+.hdslb.com:
+  name: Bilibili 高可用地域负载均衡
+.bilivideo.com:
+  name: 哔哩哔哩视频点播系统
+.bilivideo.cn:
+  name: 哔哩哔哩视频点播系统PCDN
+.szbdyd.com:
+  name: 哔哩哔哩视频点播系统PCDN
+.nodeedge.cn:
+  name: 长沙市摩根网络科技有限公司PCDN
+.nodecdn.cn:
+  name: 长沙市摩根网络科技有限公司PCDN
+.mogencloud.com:
+  name: 长沙市摩根网络科技有限公司
+.xwaf.cn:
+  name: 极御云安全(浙江壹云云计算有限公司)
+.shifen.com:
+  name: 百度旗下业务地域负载均衡系统
+.sinajs.cn:
+  name: 新浪静态域名
+.tencent-cloud.net:
+  name: 腾讯旗下业务地域负载均衡系统
+.elemecdn.com:
+  name: 饿了么静态域名与地域负载均衡
+.sinaedge.com:
+  name: 新浪科技融合CDN负载均衡
+.sina.com.cn:
+  name: 新浪科技融合CDN负载均衡
+.sinacdn.com:
+  name: 新浪云 CDN
+.sinasws.com:
+  name: 新浪云 CDN
+.saebbs.com:
+  name: 新浪云 SAE 云引擎
+.websitecname.cn:
+  name: 美橙互联旗下建站之星
+.cdncenter.cn:
+  name: 美橙互联CDN
+.vhostgo.com:
+  name: 西部数码虚拟主机
+.gotoip55.com:
+  name: 西部数码虚拟主机
+.jsd.cc:
+  name: 上海云盾YUNDUN
+.powercdn.cn:
+  name: 动力在线CDN
+.21vokglb.cn:
+  name: 世纪互联云快线业务
+.21vianet.com.cn:
+  name: 世纪互联云快线业务
+.21okglb.cn:
+  name: 世纪互联云快线业务
+.21speedcdn.com:
+  name: 世纪互联云快线业务
+.21cvcdn.com:
+  name: 世纪互联云快线业务
+.okcdn.com:
+  name: 世纪互联云快线业务
+.okglb.com:
+  name: 世纪互联云快线业务
+.cdnetworks.net:
+  name: 北京同兴万点网络技术
+.txnetworks.cn:
+  name: 北京同兴万点网络技术
+.cdnnetworks.com:
+  name: 北京同兴万点网络技术
+.txcdn.cn:
+  name: 北京同兴万点网络技术
+.cdnunion.net:
+  name: 宝腾互联旗下上海万根网络(CDN 联盟)
+.cdnunion.com:
+  name: 宝腾互联旗下上海万根网络(CDN 联盟)
+.mygslb.com:
+  name: 宝腾互联旗下上海万根网络(YaoCDN)
+.cdnudns.com:
+  name: 宝腾互联旗下上海万根网络(YaoCDN)
+.sprycdn.com:
+  name: 宝腾互联旗下上海万根网络(YaoCDN)
+.chuangcdn.com:
+  name: 创世云融合 CDN
+.aocde.com:
+  name: 创世云融合 CDN
+.ctcdn.cn:
+  name: 中国电信天翼云CDN
+.ctxcdn.cn:
+  name: 中国电信天翼云CDN
+.ctdns.cn:
+  name: 中国电信天翼云CDN
+.ctyunapi.cn:
+  name: 中国电信天翼云 OSS
+.yfcdn.net:
+  name: 云帆加速CDN
+.mmycdn.cn:
+  name: 蛮蛮云 CDN(中联利信)
+.chinamaincloud.com:
+  name: 蛮蛮云 CDN(中联利信)
+.cnispgroup.com:
+  name: 中联数据(中联利信)
+.cdnle.com:
+  name: 新乐视云联(原乐视云)CDN
+.gosuncdn.com:
+  name: 高升控股CDN技术
+.mmtrixopt.com:
+  name: mmTrix性能魔方(高升控股旗下)
+.cloudfence.cn:
+  name: 蓝盾云CDN
+.ngaagslb.cn:
+  name: 新流云(新流万联)
+.ngaagslb.net:
+  name: 新流云(新流万联)
+.clngaa.com:
+  name: 新流云(新流万联)
+.p2cdn.com:
+  name: 迅雷星域云PCDN
+.00cdn.com:
+  name: 迅雷星域云PCDN
+.sankuai.com:
+  name: 美团云(三快科技)负载均衡
+.lccdn.org:
+  name: 领智云 CDN(杭州领智云画)
+.nscloudwaf.com:
+  name: 绿盟云 WAF
+.2cname.com:
+  name: 网堤安全
+.ucloudgda.com:
+  name: UCloud 罗马 Rome 全球网络加速
+.google.com:
+  name: Google Web 业务
+.1e100.net:
+  name: Google Web 业务
+.ncname.com:
+  name: NodeCache
+.steamstatic.com:
+  name: SteamCDN
+.steamserver.net:
+  name: SteamCDN
+.steamcontent.com:
+  name: SteamCDN
+.valvesoftware.com:
+  name: SteamCDN
+.pphimalayanrt.com:
+  name: SteamCDN(中国大陆)
+.steamchina.com:
+  name: SteamCDN(中国大陆)
+.alipaydns.com:
+  name: 蚂蚁金服旗下业务地域负载均衡系统
+.wscloudcdn.com:
+  name: 全速云(网宿)CloudEdge 云加速
+.cdngtm.com:
+  name: 网宿 CDN
+.cdngtm.cn:
+  name: 网宿 CDN
+.funnull.org:
+  name: 方能 CDN
+.funnullv:
+  name: 方能 CDN
+.funnullv:
+  name: 方能 CDN
+.funnull3:
+  name: 方能 CDN
+.funnull0:
+  name: 方能 CDN
+.fn0:
+  name: 方能 CDN
+.fnvip100.com:
+  name: 方能 CDN
+.pcwaf.com:
+  name: 锐速云 CDN
+.nbwaf.com:
+  name: 锐速云 CDN
+.yisuddoscdn.com:
+  name: 亿速云 CDN
+.yunduns.com:
+  name: 上海云盾
+.hwwsdns.cn:
+  name: 上海云盾
+.yunduncdn.com:
+  name: 上海云盾
+.aqyun.com:
+  name: 知道创宇云安全 CDN
+.jsdun.info:
+  name: 极速盾
+.vedcdnlb.com:
+  name: 字节跳动旗下火山引擎
+.volcmcdn:
+  name: 字节跳动旗下火山引擎
+.volcgslb.com:
+  name: 字节跳动旗下火山引擎
+.volcgtm.com:
+  name: 字节跳动旗下火山引擎
+.cdnbuild.net:
+  name: 字节跳动旗下火山引擎
+.saaswaf.com:
+  name: 安恒云 WAF
+.cctvcdn.com:
+  name: CCTVCDN
+.cctvcdn.net:
+  name: CCTVCDN
+.mingfucdn.com:
+  name: 明赋云
+.cjjd0:
+  name: 明赋云
+.cjjd:
+  name: 明赋云
+.cmvideo.cn:
+  name: 中国移动
+.cmecloud.cn:
+  name: 中国移动
+.bytecdn.cn:
+  name: 字节跳动
+.raincdn.cn:
+  name: 雨云CDN
+.tebi.io:
+  name: tebi 对象储存
+.awswaf.com:
+  name: Amazon云盾
+.awsglobalaccelerator.com:
+  name: Amazon全球加速
+.amazonaws.com.cn:
+  name: Amazon中国区
+.backblazeb2.com:
+  name: BackBlaze对象储存
+.tlivecdn.com:
+  name: 腾讯云直播
+.aliyunwaf.com:
+  name: 阿里云WAF
+.alicloudwaf.com:
+  name: 阿里云WAF
+.aligfwaf.com:
+  name: 阿里云WAF
+.aliyunddos:
+  name: 阿里云WAF
+yundun.aliyun.com:
+  name: 阿里云云盾
+.bcebos.com:
+  name: 百度云 CDN
+accelerator.tencent-cloud.com:
+  name: 腾讯云 CDN
+.zego.im:
+  name: 即构音视频服务
+api.openai.com:
+  name: GPT API接口
+.herokudns.com:
+  name: Heroku 云平台
