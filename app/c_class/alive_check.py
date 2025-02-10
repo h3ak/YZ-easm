@@ -94,7 +94,7 @@ def icmp_alive_with_os(host: str) -> tuple:
 
 # 示例使用
 if __name__ == "__main__":
-    target_host = "49.55.4.2"
+    target_host = "217.113.192.10"
     is_alive, os_type = icmp_alive_with_os(target_host)
     if is_alive:
         print(f"Host {target_host} is alive. OS: {os_type}")
