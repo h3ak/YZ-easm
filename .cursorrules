@@ -9,12 +9,20 @@
     - services: 服务识别组件
     - hosts: 主机扫描组件
     - c_class: C段扫描组件
-    - code_scan: 代码扫描组件
+    - sensitive_scan: 敏感信息扫描组件
     - ports: 端口扫描组件
+        - services: 服务识别组件
+    - web: web扫描组件
     - utils: 工具组件
     - views: 视图组件
+    - api: 接口组件
 - test: 测试组件
 
 # 错误处理
 - 使用 try/catch 块处理异步操作
 - 实现全局错误边界组件
+
+#日志
+- 使用logger库进行日志记录
+- 确保日志记录的清晰性和一致性
+- 在适当的地方添加日志，以便于调试和问题排查
